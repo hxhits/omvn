@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="reportType" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="reportType"/>
+			<item value="description"/>
+			<item value="geo_dist_timeline_v4"/>
+			<item value="geodistance_poi_notification_v2"/>
+			<item value="geodist_poi_notification_v2"/>
+			<item value="PoiActionRepository"/>
+			<item value="findByPhone"/>
+			<item value="like"/>
+			<item value="userFriendRequestRepository.save"/>
+			<item value="userIds"/>
+			<item value="getByRecipientAndSenderOrElse"/>
+			<item value="setTimelineType"/>
+			<item value="timelineType"/>
+			<item value="poi detail"/>
+			<item value="geo_dist_my_timeline_v3"/>
+		</list>
+		<list key="replacehistory">
+			<item value="entity.getToken()"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="334" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.310345|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="453" key="DIALOG_HEIGHT"/>
+		<item value="1533" key="DIALOG_X_ORIGIN"/>
+		<item value="464" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

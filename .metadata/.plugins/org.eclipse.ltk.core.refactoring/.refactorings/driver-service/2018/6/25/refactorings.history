@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Image.java&apos; to &apos;driver-service/src/main/java/vn.com.omart.driver.entity&apos;&#x0D;&#x0A;- Original project: &apos;driver-service&apos;&#x0D;&#x0A;- Destination element: &apos;driver-service/src/main/java/vn.com.omart.driver.entity&apos;&#x0D;&#x0A;- Original element: &apos;vn.com.omart.driver.support.Image.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src\/main\/java&lt;vn.com.omart.driver.entity" element1="/src\/main\/java&lt;vn.com.omart.driver.support{Image.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1529411192255" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,5 @@
+package vn.com.omart.backend.domain.model;
+
+public class TimelineReportHide {
+
+}

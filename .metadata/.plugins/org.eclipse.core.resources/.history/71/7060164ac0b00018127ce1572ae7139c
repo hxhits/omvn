@@ -1,0 +1,18 @@
+package vn.com.omart.backend.application;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import vn.com.omart.backend.application.util.DateUtils;
+import vn.com.omart.backend.domain.model.Timeline;
+import vn.com.omart.backend.domain.model.TimelineReportHide;
+import vn.com.omart.backend.domain.model.TimelineReportHideRepository;
+import vn.com.omart.backend.domain.model.TimelineRepository;
+
+@Service
+public class TimelineReportHideService {
+	
+	
+	
+	
+}

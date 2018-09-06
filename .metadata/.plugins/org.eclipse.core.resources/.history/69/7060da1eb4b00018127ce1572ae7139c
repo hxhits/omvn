@@ -1,0 +1,7 @@
+package vn.com.omart.backend.domain.model;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface TimelineReportHideRepository extends JpaRepository<TimelineReportHide, Long> {
+
+}

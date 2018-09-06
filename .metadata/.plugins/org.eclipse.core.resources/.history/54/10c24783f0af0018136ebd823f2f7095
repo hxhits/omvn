@@ -1,0 +1,2 @@
+ALTER TABLE `omart_db`.`omart_timeline`
+ADD COLUMN  `report_abuse` int(2) default 0;

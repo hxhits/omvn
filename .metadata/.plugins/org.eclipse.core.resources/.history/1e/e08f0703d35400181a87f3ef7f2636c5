@@ -1,0 +1,20 @@
+package vn.com.omart.backend.domain.model;
+
+import java.util.List;
+
+import org.springframework.data.jpa.repository.Query;
+import org.springframework.data.repository.query.Param;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface RecruitmentRepository extends JpaRepository<Recruitment, Long> {
+	
+	List<Recruitment> findByPoiAndIsDeleted(PointOfInterest poi,boolean isDeleted);
+	
+	List<Recruitment> findByPositionAndIsDeleted(Category poi,boolean isDeleted);
+	
+	@Query(value="SELECT distinct r.poi_id FROM omart_db.omart_recruitment r where FIND_IN_SET(r.position_id, (:catIds)) AND r.state = :state",nativeQuery=true)
+	List<Long> getRecruitmentInPositionIdAndState(@Param("catIds") String catIds,@Param("state") int state);
+	
+}

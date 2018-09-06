@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;vn.com.omart.backend.port.adapter.rest.PictureResource.java&apos; to &apos;PoiPictureResource.java&apos;&#x0D;&#x0A;- Original project: &apos;poi-service&apos;&#x0D;&#x0A;- Original element: &apos;vn.com.omart.backend.port.adapter.rest.PictureResource.java&apos;&#x0D;&#x0A;- Renamed element: &apos;vn.com.omart.backend.port.adapter.rest.PoiPictureResource.java&apos;" description="Rename compilation unit &apos;PictureResource.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java&lt;vn.com.omart.backend.port.adapter.rest{PictureResource.java" name="PoiPictureResource.java" references="false" stamp="1529062916471" version="1.0"/>
+</session>

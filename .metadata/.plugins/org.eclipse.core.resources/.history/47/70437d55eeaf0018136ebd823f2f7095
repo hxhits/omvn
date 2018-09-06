@@ -1,0 +1,5 @@
+package vn.com.omart.backend.application.response;
+
+public class TimelineReportAbuseDTO {
+
+}

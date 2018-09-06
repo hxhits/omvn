@@ -1,0 +1,5 @@
+GitRepositoriesView.GitDirectories=D\:\\Project\\omart\\auth-service\\.git;C\:\\Users\\ADMIN\\git\\driver-service\\.git;D\:\\Project\\omart\\messenger-service\\.git;D\:\\Project\\omart\\poi-service\\.git;D\:\\Project\\omart\\driver-service\\.git;
+GitRepositoriesView.GitDirectories.relative=auth-service\\.git;C\:\\Users\\ADMIN\\git\\driver-service\\.git;messenger-service\\.git;poi-service\\.git;driver-service\\.git;
+RepositorySearchDialogSearchPath=D\:\\Project\\omart\\driver-service
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1
